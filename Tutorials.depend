@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1532597081 source:c:\users\h\desktop\tutorials\main.cpp
+	<iostream>
+
+1524090182 source:c:\users\h\desktop\tutorials\new.cpp
+	"New.h"
+	<iostream>
+
+1524090182 c:\users\h\desktop\tutorials\new.h
+
+1526993255 source:c:\users\h\desktop\tutorials\melone.cpp
+	"Melone.h"
+	<iostream>
+
+1526993664 c:\users\h\desktop\tutorials\melone.h
+
