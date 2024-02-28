@@ -1,4 +1,4 @@
-// Scan # 2 
+// Scan # 2    
 #include <iostream>
 #include <vector>
 
